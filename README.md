@@ -1,0 +1,2 @@
+# smoltako
+my personal website
